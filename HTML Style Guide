@@ -1,0 +1,24 @@
+Always consistent with what you do.
+
+Always use lowercase.
+
+Never mixing uppercase and lowercase names.
+
+Use lowercase file names.
+
+Always quote attribute values! (esp. the value contains spaces.)
+
+Always define image width and height, also the "alt" attribute.
+<img src="higher5.gif" alt="higer5" style="width: 1024px; height: 1024px">
+
+Do not add blank lines without a reason, add it just to separate large or logical code blocks.
+
+Do not omit these:
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Higher5</title>
+</head>
